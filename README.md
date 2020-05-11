@@ -44,5 +44,12 @@ sudo apt-get install audacity
 
 ##### Sonic Visualizer's plugins used by Serra (Aubio):
 [Download Link](https://aubio.org/vamp-aubio-plugins/)
-
-
+You can build the plugins also directly on your machine 
+```
+git clone https://github.com/aubio/vamp-aubio-plugins.git
+```
+on Mac and Linux
+```
+bash build_osx.sh
+```
+move the files _.dll, .dylib, or .so_ in the folders specified [here](https://www.vamp-plugins.org/download.html#install) for your system
