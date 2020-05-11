@@ -48,8 +48,12 @@ You can build the plugins also directly on your machine
 ```
 git clone https://github.com/aubio/vamp-aubio-plugins.git
 ```
-on Mac and Linux
+on Mac
 ```
 bash build_osx.sh
+```
+on Linux
+```
+bash build_linux.sh
 ```
 move the files _.dll, .dylib, or .so_ in the folders specified [here](https://www.vamp-plugins.org/download.html#install) for your system
