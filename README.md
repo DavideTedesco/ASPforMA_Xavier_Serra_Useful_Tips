@@ -9,6 +9,9 @@ To see which Python version you have on your system type `python` on your termin
 
 Paste this code on linux to install all the necessary Python stuff
 ```
+sudo apt-get upgrade
+```
+```
 sudo apt-get install ipython python-dev python-matplotlib python-numpy python-scipy python-pygame cython
 ```
 ##### The sms-stools used by Serra:
