@@ -2,11 +2,12 @@
 
 [link to the course on coursera.org](https://www.coursera.org/learn/audio-signal-processing/home/welcome)
 
+##### Your Python version
+To see which Python version you have on your system type `python` on your terminal, and it will appear the version of it.
+
 ##### Python extensions needed:
-Type `python` on your terminal
 
 Paste this code on linux to install all the necessary Python stuff
-
 ```
 sudo apt-get install ipython python-dev python-matplotlib python-numpy python-scipy python-pygame cython
 ```
@@ -22,7 +23,7 @@ you can also download them via this link:[files of the course to download](https
 
 [Audacity](https://www.audacityteam.org/)
 
-*You can also install this tools via terminal on Linux:*
+*You can install this tools via terminal on Linux:*
 
 - *Sonic Visualizer*
 ```
