@@ -32,7 +32,7 @@ wget -c https://code.soundsoftware.ac.uk/attachments/download/2606/sonic-visuali
 ```
 dpkg -i sonic-visualiser_4.0.1_amd64.deb
 ```
-<ins>Note that this version of the code is for the installer of the version *4.0.1* for *64-bit Ubuntu* so you should change the link and paste the right and most current link version for your system</ins>
+<ins>Note that this version of the code is for the installer of the version *4.0.1* for *64-bit Ubuntu* so you should change the link and paste the right one and most current one version for your system</ins>
 
 You can check the actual version and copy the links via [this page](https://sonicvisualiser.org/download.html)
 
